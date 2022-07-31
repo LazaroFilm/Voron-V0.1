@@ -1,10 +1,12 @@
 # Voron-V0.1
 Build log for my Voron V0.1
 
-# Relevant repos
+# Relevant links
 
 - [Vroron V0.1](https://github.com/VoronDesign/Voron-0)
 - [VoronUsers printer mods](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods)
+- [Voron Registry](https://voronregistry.com)
+- [Team FMD](https://www.teamfdm.com)
 
 # Mods
 List of mods I'm planning on using in the build. 
@@ -18,5 +20,5 @@ List of mods I'm planning on using in the build.
 - [Mini-After Sherpa with GLX lite](https://github.com/PrintersForAnts/Mini-AfterSherpa)
 
 Maybes:
-- [klicky Probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe)
+- [klicky Probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe) or [Klicky Probe for Vorondesign v0 printers](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0)
 - [Under side panel](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/xbst_/V0_Electronic_Panel)
