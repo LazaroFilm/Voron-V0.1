@@ -12,6 +12,7 @@ Build log for my Voron V0.1
 List of mods I'm planning on using in the build. 
 
 - [Tophat Hinge V0.1 (with my own unibody version)](https://github.com/LazaroFilm/VoronUsers/tree/e08290e203b471bacaf868108a4d69f613f73140/printer_mods/MSiemons/TophatHingeV0.1)
+- or [Tophat magnetic](https://github.com/Coole-Guus/VoronUsers/tree/master/printer_mods/Dreg/V0_Magnetic_Tophat)
 - [V0.1 0.96" OLED skirt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mpfl/V0.1_skirt_OLED)
 - [Skirt with C14 inlet + New feet to screw into](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/3vilson/V0.1_Skirt_Inlet)
 - [Mini Afterburner ADXL345 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Andre/Mini_Afterburner_ADXL345_Mount)
