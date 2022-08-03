@@ -19,6 +19,7 @@ List of mods I'm planning on using in the build.
 - [V0 No-Drop Nuts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts)
 - [Voron 0.1 skirt buttons](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Tircown/V01_skirt_buttons)
 - [Mini-After Sherpa with GLX lite](https://github.com/PrintersForAnts/Mini-AfterSherpa)
+- or [Smol Stealth Burner](https://github.com/VoronDesign/VoronUsers/tree/a3c76e11c864d6536cd9db601a4156e2272c8ce4/patternmaker/Smol-Stealth-Burner-V0.1-Mod)
 
 Maybes:
 - [klicky Probe](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/JosAr/Klicky-Probe) or [Klicky Probe for Vorondesign v0 printers](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0)
